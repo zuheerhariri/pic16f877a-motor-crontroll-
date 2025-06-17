@@ -6,7 +6,7 @@ This embedded systems project uses a **PIC16F887A microcontroller**, a **2-axis 
 
 ---
 
-## 🔧 Components Used
+##  Components Used
 
 - PIC16F887A Microcontroller
 - L298 Motor Driver IC
@@ -19,7 +19,7 @@ This embedded systems project uses a **PIC16F887A microcontroller**, a **2-axis 
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **Joystick Input**: The joystick outputs analog voltage levels (0–5V) depending on its X/Y tilt.
 2. **ADC**: The PIC microcontroller reads analog values using its ADC module.
@@ -28,7 +28,7 @@ This embedded systems project uses a **PIC16F887A microcontroller**, a **2-axis 
 
 ---
 
-## 📂 Files
+##  Files
 
 | File | Description |
 |------|-------------|
@@ -39,7 +39,7 @@ This embedded systems project uses a **PIC16F887A microcontroller**, a **2-axis 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Requirements
 
@@ -56,7 +56,7 @@ This embedded systems project uses a **PIC16F887A microcontroller**, a **2-axis 
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
